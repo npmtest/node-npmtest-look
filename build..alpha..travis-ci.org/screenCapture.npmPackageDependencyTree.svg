@@ -1,0 +1,43 @@
+<svg height="638" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="638" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">19 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ look@0.1.3 </tspan>
+<tspan x="10" y="90">  ├─┬ clusterhub@0.2.1 </tspan>
+<tspan x="10" y="106">  │ └─┬ eventvat@0.2.1 </tspan>
+<tspan x="10" y="122">  │   └── eventemitter2@4.1.0 </tspan>
+<tspan x="10" y="138">  ├─┬ connect@2.7.4 </tspan>
+<tspan x="10" y="154">  │ ├── buffer-crc32@0.1.1 </tspan>
+<tspan x="10" y="170">  │ ├── bytes@0.2.0 </tspan>
+<tspan x="10" y="186">  │ ├── cookie@0.0.5 </tspan>
+<tspan x="10" y="202">  │ ├── cookie-signature@0.0.1 </tspan>
+<tspan x="10" y="218">  │ ├─┬ debug@2.6.3 </tspan>
+<tspan x="10" y="234">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="250">  │ ├── formidable@1.0.11 </tspan>
+<tspan x="10" y="266">  │ ├── fresh@0.1.0 </tspan>
+<tspan x="10" y="282">  │ ├── pause@0.0.1 </tspan>
+<tspan x="10" y="298">  │ ├── qs@0.5.1 </tspan>
+<tspan x="10" y="314">  │ └─┬ send@0.1.0 </tspan>
+<tspan x="10" y="330">  │   ├── mime@1.2.6 </tspan>
+<tspan x="10" y="346">  │   └── range-parser@0.0.4 </tspan>
+<tspan x="10" y="362">  ├── connect-route@0.1.3 </tspan>
+<tspan x="10" y="378">  ├─┬ nodetime@0.4.6 </tspan>
+<tspan x="10" y="394">  │ └── request@2.10.0 </tspan>
+<tspan x="10" y="410">  └─┬ socket.io@0.9.14 </tspan>
+<tspan x="10" y="426">    ├── base64id@0.1.0 </tspan>
+<tspan x="10" y="442">    ├── policyfile@0.0.4 </tspan>
+<tspan x="10" y="458">    ├── redis@0.7.3 </tspan>
+<tspan x="10" y="474">    └─┬ socket.io-client@0.9.11 </tspan>
+<tspan x="10" y="490">      ├─┬ active-x-obfuscator@0.0.1 </tspan>
+<tspan x="10" y="506">      │ └── zeparser@0.0.5 </tspan>
+<tspan x="10" y="522">      ├── uglify-js@1.2.5 </tspan>
+<tspan x="10" y="538">      ├─┬ ws@0.4.32 </tspan>
+<tspan x="10" y="554">      │ ├── commander@2.1.0 </tspan>
+<tspan x="10" y="570">      │ ├── nan@1.0.0 </tspan>
+<tspan x="10" y="586">      │ ├── options@0.0.6 </tspan>
+<tspan x="10" y="602">      │ └── tinycolor@0.0.1 </tspan>
+<tspan x="10" y="618">      └── xmlhttprequest@1.4.2</tspan>
+</text>
+</svg>
