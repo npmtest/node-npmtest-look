@@ -1,6 +1,6 @@
 # npmtest-look
 
-#### test coverage for  [look (v0.1.3)](https://github.com/baryshev/look#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-look.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-look) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-look.svg)](https://travis-ci.org/npmtest/node-npmtest-look)
+#### basic test coverage for  [look (v0.1.3)](https://github.com/baryshev/look#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-look.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-look) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-look.svg)](https://travis-ci.org/npmtest/node-npmtest-look)
 
 #### Performance profiler based on nodetime
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-look/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-look/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-look/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-look/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-look/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-look/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-look/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-look/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-look/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-look/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-look/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-look/build/coverage.html/index.html)
 
@@ -87,7 +87,8 @@
         "type": "git",
         "url": "git://github.com/baryshev/look.git"
     },
-    "version": "0.1.3"
+    "version": "0.1.3",
+    "bin": {}
 }
 ```
 
